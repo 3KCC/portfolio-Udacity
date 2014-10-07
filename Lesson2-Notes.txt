@@ -1,0 +1,15 @@
+1. Framework: row-12cols
+2. overflow: auto;
+3. Neg space: padding/margin
+4. Responsive website: Media queries
+@media only screen & (max-width: 300px){
+	background-color: blue;
+}
+5. Normalize css:
+<link type="stylesheet" src="http://path">
+6. Semantic tags: h1>4, img, form
+7. Tunning the Page
+<img src="http://placehold.it/1000x350">
+8. Fonts
+<link rel="stylesheet" type="text/css" href="http://www.google.com/fonts">
+css{ font-family: fontname, cursive; };
