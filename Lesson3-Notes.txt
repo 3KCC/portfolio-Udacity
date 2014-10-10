@@ -1,0 +1,3 @@
+Rows must be placed within a .container (fixed-width) or .container-fluid (full-width) for proper alignment and padding.
+Use rows to create horizontal groups of columns.
+Content should be placed within columns, and only columns may be immediate children of rows.
